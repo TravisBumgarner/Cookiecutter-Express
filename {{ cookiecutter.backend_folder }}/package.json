@@ -1,5 +1,5 @@
 {
-  "name": "{{ cookiecutter.project_name }}",  
+  "name": "{{ cookiecutter.project_name }} Backend",  
   "author": "{{ cookiecutter.author }}",  
   "scripts": {
     "sd:be": "nodemon ./index.ts",
