@@ -1,6 +1,6 @@
 {
     "project_name": "my-full-stack-app",
-    "project_parent": "/Users/travisbumgarner/Programming",
+    "project_parent": "./",
     "backend_folder": "backend",
     "author": "Travis Bumgarner"
 }

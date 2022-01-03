@@ -20,6 +20,4 @@ cd {{cookiecutter.backend_folder}}
 
 npm i
 
-code .
-
 exit 0
