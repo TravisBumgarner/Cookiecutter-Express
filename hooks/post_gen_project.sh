@@ -5,6 +5,6 @@ mkdir ./{{cookiecutter.backend_folder}}/src/db/migrations
 
 cd {{cookiecutter.backend_folder}}
 
-npm i
+yarn
 
 exit 0
